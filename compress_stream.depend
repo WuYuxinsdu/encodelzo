@@ -1,0 +1,630 @@
+# depslib dependency file v1.0
+1504679674 source:e:\大洋浮标\compress_stream\compress_stream\quicklz.c
+	"quicklz.h"
+
+1504679666 e:\大洋浮标\compress_stream\compress_stream\quicklz.h
+	<string.h>
+
+1546155112 source:e:\大洋浮标\compress_stream\compress_stream\stream_compress.c
+	<stdio.h>
+	<stdlib.h>
+	"quicklz.h"
+
+1504679674 source:e:\大洋浮标\encode\quicklz.c
+	"quicklz.h"
+
+1504679666 e:\大洋浮标\encode\quicklz.h
+	<string.h>
+
+1545809970 source:e:\大洋浮标\encode\des.c
+	"DES.h"
+
+1544403713 e:\大洋浮标\encode\des.h
+	"bool.h"
+	"tables.h"
+
+1544143638 e:\大洋浮标\encode\bool.h
+
+1544143959 e:\大洋浮标\encode\tables.h
+
+1546156234 source:e:\大洋浮标\encode\stream_compress.c
+	<stdio.h>
+	<stdlib.h>
+	"quicklz.h"
+	"DES.h"
+
+1546418887 source:e:\大洋浮标\encode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quicklz.h"
+
+1545720624 source:e:\大洋浮标\encode\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 e:\大洋浮标\encode\base64.h
+
+1545720624 source:e:\大洋浮标\encode_1.3\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 e:\大洋浮标\encode_1.3\base64.h
+
+1545809970 source:e:\大洋浮标\encode_1.3\des.c
+	"DES.h"
+
+1544403713 e:\大洋浮标\encode_1.3\des.h
+	"bool.h"
+	"tables.h"
+
+1544143638 e:\大洋浮标\encode_1.3\bool.h
+
+1544143959 e:\大洋浮标\encode_1.3\tables.h
+
+1504679674 source:e:\大洋浮标\encode_1.3\quicklz.c
+	"quicklz.h"
+
+1504679666 e:\大洋浮标\encode_1.3\quicklz.h
+	<string.h>
+
+1546482282 source:e:\大洋浮标\encode_1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quicklz.h"
+
+1545720624 source:e:\大洋浮标\encode_1.4\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 e:\大洋浮标\encode_1.4\base64.h
+
+1545809970 source:e:\大洋浮标\encode_1.4\des.c
+	"DES.h"
+
+1544403713 e:\大洋浮标\encode_1.4\des.h
+	"bool.h"
+	"tables.h"
+
+1544143638 e:\大洋浮标\encode_1.4\bool.h
+
+1544143959 e:\大洋浮标\encode_1.4\tables.h
+
+1504679674 source:e:\大洋浮标\encode_1.4\quicklz.c
+	"quicklz.h"
+
+1504679666 e:\大洋浮标\encode_1.4\quicklz.h
+	<string.h>
+
+1546918211 source:e:\大洋浮标\encode_1.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quicklz.h"
+
+1545720624 source:e:\大洋浮标\encode_1.8\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 e:\大洋浮标\encode_1.8\base64.h
+
+1545809970 source:e:\大洋浮标\encode_1.8\des.c
+	"DES.h"
+
+1544403713 e:\大洋浮标\encode_1.8\des.h
+	"bool.h"
+	"tables.h"
+
+1544143638 e:\大洋浮标\encode_1.8\bool.h
+
+1544143959 e:\大洋浮标\encode_1.8\tables.h
+
+1546929882 source:e:\大洋浮标\encode_1.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quicklz.h"
+
+1504679666 e:\大洋浮标\encode_1.8\quicklz.h
+	<string.h>
+
+1504679674 source:e:\大洋浮标\encode_1.8\quicklz.c
+	"quicklz.h"
+
+1548146000 source:c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548137658 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code.h
+	"quicklz.h"
+
+1548137104 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\quicklz.h
+	<string.h>
+
+1548145870 source:c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\code.c
+	"code.h"
+
+1548141870 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\code.h
+	"quicklz.h"
+
+1548137104 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\quicklz.h
+	<string.h>
+
+1548142227 source:c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\base64.h
+
+1548137089 source:c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\des.c
+	"DES.h"
+
+1544403713 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\des.h
+	"bool.h"
+	"tables.h"
+
+1544143638 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\bool.h
+
+1544143959 c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\tables.h
+
+1548137094 source:c:\users\lxl\desktop\浮标2019\encode_1.8\encode_1.8\code\quicklz.c
+	"quicklz.h"
+
+1548142227 source:c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\base64.h
+
+1548137089 source:c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\des.c
+	"DES.h"
+
+1544403713 c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\des.h
+	"bool.h"
+	"tables.h"
+
+1544143638 c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\bool.h
+
+1544143959 c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\tables.h
+
+1548137094 source:c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\quicklz.c
+	"quicklz.h"
+
+1548202604 c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\quicklz.h
+	<string.h>
+
+1548289863 source:c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548310653 source:c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\code.c
+	"code.h"
+
+1548173442 c:\users\lxl\desktop\浮标2019\encode_1.9\encode_1.8\code\code.h
+	"quicklz.h"
+
+1548312347 source:c:\users\lxl\desktop\浮标2019\encode_lxl\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 c:\users\lxl\desktop\浮标2019\encode_lxl\code\base64.h
+
+1548137094 source:c:\users\lxl\desktop\浮标2019\encode_lxl\code\quicklz.c
+	"quicklz.h"
+
+1548202604 c:\users\lxl\desktop\浮标2019\encode_lxl\code\quicklz.h
+	<string.h>
+
+1548314692 source:c:\users\lxl\desktop\浮标2019\encode_lxl\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548314678 source:c:\users\lxl\desktop\浮标2019\encode_lxl\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1548256852 c:\users\lxl\desktop\浮标2019\encode_lxl\code\des.h
+	<stdint.h>
+
+1548315229 source:c:\users\lxl\desktop\浮标2019\encode_lxl\code\code.c
+	"code.h"
+
+1548173442 c:\users\lxl\desktop\浮标2019\encode_lxl\code\code.h
+	"quicklz.h"
+
+1548312347 source:c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\base64.h
+
+1548314678 source:c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1548256852 c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\des.h
+	<stdint.h>
+
+1488398054 source:c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\minilzo.c
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"minilzo.h"
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+	<lzo/lzoconf.h>
+	<string.h>
+	<string.h>
+	<assert.h>
+	<unchecked.h>
+	<intrin.h>
+	<lzo/lzo1x.h>
+
+1488398054 c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\minilzo.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+	"lzoconf.h"
+
+1488398054 c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\lzodefs.h
+
+1488398054 c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+
+1551084334 source:c:\users\lxl\desktop\浮标2019\encodelzo_lxl\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1551084230 source:c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\code.c
+	"code.h"
+	"minilzo.h"
+
+1551083126 c:\users\lxl\desktop\浮标2019\encodelzo_lxl\code\code.h
+
+1548312347 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\base64.h
+
+1551254700 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\code.c
+	"code.h"
+	"minilzo.h"
+
+1551083126 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\code.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\minilzo.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+	"lzoconf.h"
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\lzodefs.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+
+1551184488 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1551170952 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\des.h
+	<stdint.h>
+
+1488398054 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\code\minilzo.c
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"minilzo.h"
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+	<lzo/lzoconf.h>
+	<string.h>
+	<string.h>
+	<assert.h>
+	<unchecked.h>
+	<intrin.h>
+	<lzo/lzo1x.h>
+
+1551255722 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo_lxl\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548312347 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\base64.h
+
+1551440575 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\code.c
+	"code.h"
+	"minilzo.h"
+
+1551083126 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\code.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\minilzo.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+	"lzoconf.h"
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\lzodefs.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+
+1551322338 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1551170952 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\des.h
+	<stdint.h>
+
+1488398054 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\code\minilzo.c
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"minilzo.h"
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+	<lzo/lzoconf.h>
+	<string.h>
+	<string.h>
+	<assert.h>
+	<unchecked.h>
+	<intrin.h>
+	<lzo/lzo1x.h>
+
+1551440524 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548312347 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\base64.h
+
+1551322338 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1551170952 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\des.h
+	<stdint.h>
+
+1488398054 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\minilzo.c
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"minilzo.h"
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+	<lzo/lzoconf.h>
+	<string.h>
+	<string.h>
+	<assert.h>
+	<unchecked.h>
+	<intrin.h>
+	<lzo/lzo1x.h>
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\minilzo.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+	"lzoconf.h"
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\lzodefs.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+
+1551419242 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\code.c
+	"code.h"
+	"minilzo.h"
+
+1551083126 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\code\code.h
+
+1551419389 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3.1(未完全转移到code)\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548312347 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1544405231 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\base64.h
+
+1551322338 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1551170952 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\des.h
+	<stdint.h>
+
+1488398054 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\minilzo.c
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"minilzo.h"
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+	<lzo/lzoconf.h>
+	<string.h>
+	<string.h>
+	<assert.h>
+	<unchecked.h>
+	<intrin.h>
+	<lzo/lzo1x.h>
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\minilzo.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+	"lzoconf.h"
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\lzodefs.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+
+1551600189 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1551600962 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\code.c
+	"code.h"
+	"minilzo.h"
+
+1551083126 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式(已转到code)\code\code.h
+
+1551848403 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551844791 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\base64.h
+
+1552467180 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1551170952 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\des.h
+	<stdint.h>
+
+1488398054 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\minilzo.c
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"minilzo.h"
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+	<lzo/lzoconf.h>
+	<string.h>
+	<string.h>
+	<assert.h>
+	<unchecked.h>
+	<intrin.h>
+	<lzo/lzo1x.h>
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\minilzo.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+	"lzoconf.h"
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\lzodefs.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+
+1552474942 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1552475023 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\code.c
+	"code.h"
+	"minilzo.h"
+
+1551844789 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-3\code\code.h
+
+1551848403 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\base64.c
+	"BASE64.h"
+	<string.h>
+
+1551844791 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\base64.h
+
+1552480378 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\code.c
+	"code.h"
+	"minilzo.h"
+
+1551844789 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\code.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\minilzo.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"lzodefs.h"
+	"lzoconf.h"
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\lzodefs.h
+
+1488398054 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\lzoconf.h
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+
+1552477015 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\des.c
+	"des.h"
+	<string.h>
+	<stdlib.h>
+
+1551170952 f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\des.h
+	<stdint.h>
+
+1488398054 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\code\minilzo.c
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	"minilzo.h"
+	<config.h>
+	<limits.h>
+	<stddef.h>
+	<lzo/lzodefs.h>
+	<lzo/lzoconf.h>
+	<string.h>
+	<string.h>
+	<assert.h>
+	<unchecked.h>
+	<intrin.h>
+	<lzo/lzo1x.h>
+
+1552554174 source:f:\重要文件\毕设程序\encodelzo_lxl-new\encodelzo—三种模式3-13\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
